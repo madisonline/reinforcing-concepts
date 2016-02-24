@@ -1,4 +1,4 @@
-Starting a new project
+###Starting a new project
 
 1) Clone a copy of the News Apps Template from Chris’ Git page.
 2) Rename the repository locally. Already in a single git command.
@@ -6,7 +6,7 @@ Starting a new project
 Git command to clone and rename a repository locally:
 $ git clone [repository address here] file-name-here
 
-Save to YOUR repository:
+###Save to YOUR repository:
 
 1.) Add all untracked files to the repository.
 $ git add “js/data.json”
@@ -29,3 +29,5 @@ $ git commit -am “Note”
 
 6.) Push to repo.
 $ git push origin master
+
+(Use Git Command Markdown Language)
